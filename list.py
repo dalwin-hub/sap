@@ -10,9 +10,9 @@ print(fruits1)             #replace
 fruits.reverse()
 print(fruits)              #reverse
 
-ab=[1,2,3,4,5]
-cd=[21,22,23,24,25]
-ab.extend(cd)
-ab.append(29)
-print(ab)
+a=[1,2,3,4,5]
+b=[21,22,23,24,25]
+a.extend(b)
+a.append(29)
+print(a)
 
